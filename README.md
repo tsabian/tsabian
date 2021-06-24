@@ -37,6 +37,11 @@ I'm a passionate game and mobile developer. Actualy i'm a software enginer at CI
     ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
     ![angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
+* Back as a Service (Baas)
+    
+    ![firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+    ![heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+    
 * Packages manager
 
     ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
