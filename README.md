@@ -65,7 +65,7 @@ I'm a passionate game and mobile developer. Actualy i'm a software enginer at CI
 * DevOps
     
     ![azuredevops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-    ![travisci](https://img.shields.io/badge/travis_CI-FFFFFF?style=for-the-badge&logo=travisci&logoColor=878888)
+    ![travisci](https://img.shields.io/badge/travis_CI-FFFFFF?style=flat&logo=travisci&logoColor=878888)
 
 * IDE
 
