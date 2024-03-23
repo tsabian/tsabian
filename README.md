@@ -8,4 +8,4 @@ I'm a passionate game and mobile developer. Actualy i'm a software enginer at CI
 
 </p>
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=tsabian&theme=onedark)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=tsabian&theme=transparent)
