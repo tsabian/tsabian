@@ -1,6 +1,6 @@
 ## Hi there, i'm Tiago! 👋
 
-I'm a passionate game and mobile developer. Actualy i'm a software enginer at CI&T from Brazil.
+I'm a passionate game and mobile developer. Actualy i'm a software enginer.
 
 <p align="center">
 
